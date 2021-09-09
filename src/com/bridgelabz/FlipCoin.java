@@ -6,7 +6,7 @@ public class FlipCoin {
     static final int HEADFLIP = 1;
     static final int COUNT = 100;
 
-    public static void main(String[] args)  {
+    public static void main(String[] args) {
         double heads = 0;
         double tails = 0;
         for (int i = 1; i <= COUNT; i++) {
