@@ -2,7 +2,7 @@ package com.bridgelabz;
 
 import java.util.Scanner;
 
-public class LargestNumber {
+public class EuclideanDistance {
     public static void main(String[] args) {
 
         System.out.println("Enter the value of x and y below to find the Euclidean distance : ");
